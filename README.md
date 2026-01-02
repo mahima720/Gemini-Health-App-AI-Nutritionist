@@ -2,6 +2,9 @@
 
 An **AI-powered nutrition assistant** that analyzes food images to estimate calorie counts and provide health summaries. Built with Streamlit and Google Gemini 2.5 Flash, this app acts as a personal nutritionist in your pocket.
 
+## 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-health-app-ai-nutritionist.streamlit.app/)
+
 ![UI](/images/image1.png)
 
 ##  Features
